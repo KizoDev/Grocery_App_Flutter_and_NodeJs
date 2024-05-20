@@ -1,2 +1,2 @@
-# E-Commerce-App
-A simple E-Commerce App with Stripe payment, a user can register, login, order for a product and make payment online
+# Grocery_App_Flutter_and_NodeJs
+A Grocery E-Commerce App with a Nodejs Backend, this App allows users to shop online, browse product catalogs, create favorite lists, add items to a cart, and complete purchases using the Stripe payment solution
